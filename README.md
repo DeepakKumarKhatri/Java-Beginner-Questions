@@ -1,0 +1,2 @@
+# Java-Beginner-Questions
+Hello Internet I am creating this repository to help the students who have started the java like me but are confused from where they practice so this repository will help them. This repository will have multiple pdf files in it which contains questions and solution for those too it might contains some mistake so if you are interested to contribute in it then you are most "WELCOME TO DO THIS". This repository is basically consists of my university lab assignment. 
